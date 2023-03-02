@@ -83,7 +83,7 @@ struct HeadScrollTabBar: View {
                                 }
                             }
                         }
-                        //添加下划线
+                        //Add underline
                         RoundedRectangle(cornerRadius: 3)
                             .frame(width: 20.0, height: 3.0)
                             .foregroundColor(.blue)
